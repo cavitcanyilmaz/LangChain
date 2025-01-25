@@ -28,3 +28,4 @@
 2025-05-31T13:49:55 | touched: .env.example
 2025-10-13T00:04:46 | touched: scripts/interact.js
 2025-01-27T06:21:27 | touched: hardhat.config.js
+2025-01-25T12:11:29 | touched: scripts/deploy.js
